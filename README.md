@@ -1,5 +1,16 @@
-# Vue 3 + Vite
+# 🎬 GoodReviews — A Curated Movie Review Website
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**GoodReviews** is a web platform dedicated to showcasing positive, insightful movie reviews from all eras and genres. From timeless classics to the latest blockbusters, our site highlights what makes each film shine.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🌟 Features
+
+- ✅ Curated positive reviews from trusted critics
+- 🎥 Covers all genres: drama, sci-fi, animation, romance, and more
+- 🗂 Filter by genre, director, or rating
+- 📝 Each review includes:
+  - Title
+  - Director
+  - Numerical rating
+  - Genre
+  - Critic name
+  - Written review content
